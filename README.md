@@ -22,9 +22,11 @@ My solution ranked 22th out of 2,943 on the [aptos2019-blindness-detection](http
 3. **Augmentations**
     
     For augmentations, the following were helpful
-    * do_flip=True
-    * flip_vert=True
-    * max_rotate=180
-    * max_zoom=1.0
+    * flip vertical and horizontal,
+    * max_rotate=180,
+    * max_zoom=1.2,
+    * brightness_range=0.2,
+    * contrast_range=0.2.
+    
     
 4. **Training**
