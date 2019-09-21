@@ -38,7 +38,8 @@ My solution ranked 22th out of 2,943 on the [aptos2019-blindness-detection](http
     
     Finally, TTA(only flip vertical and horizontal) was performed on each model, and the final result was an ensemble of these.
     
-    The single score for each model is shown below.
-    * EfficientNet-B5, input size 256 Public:0.796934, Private:0.916653
-    * EfficientNet-B5, input size 328 Public:0.800294, Private:0.921412
-    * EfficientNet-B5, input size 456 Public:0.801565, Private:0.919786
+    The single score for each model and ensemble score is shown below.
+    * EfficientNet-B5, input size 256 Public : 0.796934, Private : 0.916653
+    * EfficientNet-B5, input size 328 Public : 0.800294, Private : 0.921412
+    * EfficientNet-B5, input size 456 Public : 0.801565, Private : 0.919786
+    * Ensemble models                 Public : 0.815499, Private : 0.929032
