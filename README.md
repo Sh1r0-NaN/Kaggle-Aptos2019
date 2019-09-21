@@ -8,7 +8,7 @@ My solution ranked 22th out of 2,943 on the [aptos2019-blindness-detection](http
     But it didn't work.
     So finally the preprocessing did nothing.
     
-    [Reference Notebook](https://www.kaggle.com/ratthachat/aptos-eye-preprocessing-in-diabetic-retinopathy). 
+    [Reference kernel](https://www.kaggle.com/ratthachat/aptos-eye-preprocessing-in-diabetic-retinopathy). 
     
 
 2. **Models and Input sizes**
@@ -29,4 +29,6 @@ My solution ranked 22th out of 2,943 on the [aptos2019-blindness-detection](http
     * contrast_range=0.2.
     
     
-4. **Training**
+4. **Training and Testing**
+
+    For the training, I referred to the public kernel(https://www.kaggle.com/drhabib/starter-kernel-for-0-79).
