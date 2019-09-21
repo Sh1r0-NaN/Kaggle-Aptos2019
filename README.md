@@ -6,9 +6,9 @@ My solution ranked 22th out of 2,943 on the [aptos2019-blindness-detection](http
 
     I used all images from 2015 train dataset to pretrain my models. 
     
-    Current competition train.
+    Current competition data.
 
-    Old competition test.
+    Old competition datasets.
 
 
 2. **Models**
