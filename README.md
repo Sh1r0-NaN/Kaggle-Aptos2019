@@ -42,4 +42,4 @@ My solution ranked 22th out of 2,943 on the [aptos2019-blindness-detection](http
     * EfficientNet-B5, input size 256 Public : 0.796934, Private : 0.916653
     * EfficientNet-B5, input size 328 Public : 0.800294, Private : 0.921412
     * EfficientNet-B5, input size 456 Public : 0.801565, Private : 0.919786
-    * Ensemble models                 Public : 0.815499, Private : 0.929032
+    * Ensemble models, Public : 0.815499, Private : 0.929032
