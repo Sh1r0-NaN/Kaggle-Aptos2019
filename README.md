@@ -32,7 +32,8 @@ My solution ranked 22th out of 2,943 on the [aptos2019-blindness-detection](http
 4. **Training and Testing**
 
     For the training, I referred to the public kernel(https://www.kaggle.com/drhabib/starter-kernel-for-0-79).
-    First, 2015 training data was used for pretrain. After that, I trained with data from current competition.
+    First, 2015 training data was used for pretrain. 
+    After that, I trained with data from blend 2015 and current competition.
     
     Finally, TTA(only flip vertical and horizontal) was performed on each model, and the final result was an ensemble of these.
     
