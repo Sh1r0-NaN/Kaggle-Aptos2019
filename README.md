@@ -4,9 +4,8 @@ My solution ranked 22th out of 2,943 on the [aptos2019-blindness-detection](http
 
 1. **Data**
 
-    We used full-size images from 2015 train dataset to pretrain our models. 
-    Models trained on old data only gave us ~0.73-0.75 on public LB.
-
+    I used all images from 2015 train dataset to pretrain my models. 
+    
     Current competition train.
 
     Old competition test.
