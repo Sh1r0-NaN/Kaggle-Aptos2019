@@ -13,7 +13,7 @@ My solution ranked 22th out of 2,943 on the [aptos2019-blindness-detection](http
 
 2. **Models and Input sizes**
 
-    My final submission was a simple average of the three EfficientNetB5 models with different input sizes.
+    My final submission was a simple average of the three EfficientNetB5 models with different input sizes(256, 328 and 456).
     I wanted to try other models such as ResNets, 
     but I gave up because I only had kaggle's kernel as a computational resource.
 
