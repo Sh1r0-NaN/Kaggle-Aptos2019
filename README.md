@@ -2,14 +2,14 @@
 
 My solution ranked 22th out of 2,943 on the [aptos2019-blindness-detection](https://www.kaggle.com/c/aptos2019-blindness-detection). 
 
-1. **Data**
+1. **Preprocessing**
 
-    I used all images from 2015 train dataset to pretrain my models. 
+    I tried circle crop and Ben's Preprocessing. 
+    But it didn't work.
+    So finally the preprocessing did nothing.
     
-    Current competition data.
-
-    Old competition datasets.
-
+    [Reference](https://www.kaggle.com/ratthachat/aptos-eye-preprocessing-in-diabetic-retinopathy). 
+    
 
 2. **Models**
 
