@@ -22,7 +22,7 @@ My solution ranked 22th out of 2,943 on the [aptos2019-blindness-detection](http
     
 3. **Augmentations**
     
-    The following was used as data ugmentations.
+    The following was used as data augmentations.
     * flip vertical and horizontal
     * max_rotate=180
     * max_zoom=1.2
